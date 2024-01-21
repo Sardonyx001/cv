@@ -10,7 +10,7 @@ export const RESUME_DATA = {
     "Aspiring Full Stack Engineer. Currently 4th year student at Oita University, working as a Backend Engineer with local startups.",
   summary:
     "I have experience in building and maintaining web applications using Node.js, TypeScript, Flask, and PostgreSQL. I am passionate about building products that are scalable, maintainable, and accessible. I am also interested in learning more about DevOps and MLOps.",
-  avatarUrl: `https://api.dicebear.com/7.x/bottts/svg`,
+  avatarUrl: `https://api.dicebear.com/7.x/bottts/svg?seed=${Math.random()}`,
   personalWebsiteUrl: "https://sardonyx001.github.io/",
   contact: {
     email: "lassouedjamel99@gmail.com",
