@@ -3,7 +3,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Jamel Eddine Lassoued",
-  initials: "JL",
+  initials: "LJ",
   location: "Oita, Japan",
   locationLink: "https://www.google.com/maps/place/Oita,+Japan/",
   about:
