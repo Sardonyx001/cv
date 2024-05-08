@@ -1,0 +1,465 @@
+{
+  "basics": {
+    "name": "LASSOUED JAMEL EDDINE",
+    "headline": "ラスエド・ジャメル・エディン",
+    "email": "v2158269@oita-u.ac.jp",
+    "phone": "+81 07091962885",
+    "location": "大分県",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "visible": true,
+      "id": "summary",
+      "content": ""
+    },
+    "awards": {
+      "name": "称号",
+      "columns": 4,
+      "visible": false,
+      "id": "awards",
+      "items": [
+        {
+          "id": "fpj9xtyq7wn0dh3tx6xyw2k5",
+          "visible": true,
+          "title": "文部科学金（MEXT）　国費留学生奨学金",
+          "awarder": "文部科学省",
+          "date": "2019/04",
+          "summary": "日本語の1年コースと3年間の電子制御工学コースを含め、再び2年間の延長完了",
+          "url": {
+            "label": "",
+            "href": "https://www.mext.go.jp/en/index.htm"
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "資格",
+      "columns": 1,
+      "visible": false,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "t8spo7cwc5e2j3nboocbw5th",
+          "visible": true,
+          "name": "日本語能力試験（JLPT）",
+          "issuer": "",
+          "date": "2020/01",
+          "summary": "N2",
+          "url": {
+            "label": "",
+            "href": "https://www.jlpt.jp/e/"
+          }
+        },
+        {
+          "id": "b3xivo2w3lvl2b7qs8c76w0r",
+          "visible": true,
+          "name": "TOEIC（IP）",
+          "issuer": "IIBC",
+          "date": "2021/01",
+          "summary": "990/990点",
+          "url": {
+            "label": "",
+            "href": "https://www.iibc-global.org/english.html"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "学歴",
+      "columns": 1,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "c9e7rg8jvn3epjpa70w4i4x2",
+          "visible": true,
+          "institution": "大分大学",
+          "studyType": "学士",
+          "area": "理工学科知能情報システム",
+          "score": "",
+          "date": "2023/04 ~ 2025/05 (見込み)",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.st.oita-u.ac.jp/college/ist/csis.html"
+          }
+        },
+        {
+          "id": "kb2fz7tacy3zenagx33f8row",
+          "visible": true,
+          "institution": "佐世保工業専門学校",
+          "studyType": "短期大学士",
+          "area": "電子制御工学科",
+          "score": "",
+          "date": "2020-04 ~ 2023-03",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.sasebo.ac.jp/"
+          }
+        },
+        {
+          "id": "qjvsv5y405jjr70bkds3lqk9",
+          "visible": true,
+          "institution": "JASSO東京日本語教育センター",
+          "studyType": "1年日本語コース",
+          "area": "",
+          "score": "日本語能力試験N2取得",
+          "date": "2019/04 ~ 2020/03",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.jasso.go.jp/index.html"
+          }
+        },
+        {
+          "id": "xf3c4cq53r73gcuori35dkmr",
+          "visible": false,
+          "institution": "IPEIT",
+          "studyType": "短期大学士",
+          "area": "数学・物理・情報専攻",
+          "score": "",
+          "date": "2018/09 ~ 2019/03",
+          "summary": "<p>中退 （日本での留学のため）</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "経験",
+      "columns": 1,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "jme2ardx2fytt9dgbed2n2hx",
+          "visible": true,
+          "company": "シグマアイ",
+          "position": "研究開発（アルバイト）",
+          "location": "",
+          "date": "2023/05 ~ 現在",
+          "summary": "<p>主に<strong><em>Flask Webアプリ</em></strong>の<strong>バックエンド</strong>開発＋ <strong>Jsのフロントエンド</strong>開発。Github Actionsによる<strong>CI/CDの構築</strong>。<strong>生成AIデモ</strong>の開発とデプロイ。</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.sigmailab.com/"
+          }
+        },
+        {
+          "id": "yfr5fy7t797hxq880gjm6z65",
+          "visible": true,
+          "company": "モバイルクリエイト",
+          "position": "フルスタックエンジニア（インターン）",
+          "location": "",
+          "date": "2023/11 ~ 2024/03",
+          "summary": "<p>4ヶ月間のインターンを通じて<strong><em>バスのリアルタイム位置データ（GTFS-RT）を利用するルート検索・LINEを介する通知機能を持つWebアプリ</em></strong>の開発。主に<strong>バックエンド</strong>と<strong>インフラ</strong>を担当。</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.mcinc.jp/"
+          }
+        },
+        {
+          "id": "g1lqc3c3zljk1ebinv3mfgrf",
+          "visible": true,
+          "company": "ゆめみ株式会社",
+          "position": "バックエンドエンジニア（インターン）",
+          "location": "",
+          "date": "2024/02/19 ~ 2024/03/01",
+          "summary": "<p>2週間のインターンに通じて<strong>Golang</strong>の<strong>Echoフレームワーク</strong>を利用した<strong><em>個人注文システムのAPI</em></strong>を開発。</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.yumemi.co.jp/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 4,
+      "visible": false,
+      "id": "interests",
+      "items": [
+        {
+          "id": "a04ffa619hwlkbqgryzqsddk",
+          "visible": true,
+          "name": "ネットワーク",
+          "keywords": [
+            "ネットワーク・セキュリティ"
+          ]
+        },
+        {
+          "id": "d5ev2g26oardqsjbqw8op0kf",
+          "visible": true,
+          "name": "機械学習",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "言語",
+      "columns": 4,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "x2blq1bpv3ne9hjf7msmut9a",
+          "visible": true,
+          "name": "アラブ語",
+          "description": "ネイティブ",
+          "level": 5
+        },
+        {
+          "id": "k7l5wu7kpaxqvky0y2yl1zxf",
+          "visible": true,
+          "name": "日本語",
+          "description": "上級",
+          "level": 4
+        },
+        {
+          "id": "t8ydh9aaihn8qdo8ihumqjnf",
+          "visible": true,
+          "name": "英語",
+          "description": "上級",
+          "level": 4
+        },
+        {
+          "id": "yt8z8a2hbjwpgh49hhjgkeo0",
+          "visible": true,
+          "name": "フランス語",
+          "description": "上級",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "活動",
+      "columns": 2,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "faktahyk1ue03s8b0wsdd8sl",
+          "visible": true,
+          "name": "高機能中継ノードにおける誤り訂正技術を用いたTCPの性能評価",
+          "description": "卒業研究",
+          "date": "2022/06 ~ 2023/02",
+          "summary": "Network Simulator 3（C++）を用いた分散ネットワークのシミュレーションを行い、データ解析や可視化を行った",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "sbrghx0xikumjp3amz9iudle",
+          "visible": true,
+          "name": "Binary Bot",
+          "description": "Twitterボット",
+          "date": " - ",
+          "summary": "<p>Twitterの投稿を2進数からasciiに変換するPythonライブラリtweepyとTwitterAPIを使ったTwitterボットを構築</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "pxfqh0444berry6vkkshotzz",
+          "visible": false,
+          "name": "Chaotic Attractor Visualizer",
+          "description": "python デスクトップアプリケーション",
+          "date": " - ",
+          "summary": "pythonのmatplotlibでのカオスアトラクターの数学曲線可視化",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "スキル",
+      "columns": 5,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "fcexq8e06mr9k63ynoi592yx",
+          "visible": true,
+          "name": "Python",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "Django",
+            "Flask",
+            "Numpy",
+            "Matplotlib",
+            "Celery"
+          ]
+        },
+        {
+          "id": "uzf08lpqsn2g49w05ydr3ksd",
+          "visible": true,
+          "name": "C/C++",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "ns-3",
+            "競プロ",
+            "競プロ"
+          ]
+        },
+        {
+          "id": "r4mro4kcvbkazgenykc0qnth",
+          "visible": true,
+          "name": "Shell・Git・Perl",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "シェルスクリプト",
+            "ログ解析"
+          ]
+        },
+        {
+          "id": "ejqtah9b3it0pr1chkhj5y9v",
+          "visible": true,
+          "name": "Javascript・Typescript",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Next.js",
+            "React.js",
+            "tRPC"
+          ]
+        },
+        {
+          "id": "t4norbve5cbuejkx48jpnrly",
+          "visible": true,
+          "name": "Golang",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "Echo",
+            "Gorm",
+            "Cobra"
+          ]
+        },
+        {
+          "id": "k2dacdnkxg0oiwx6kxmx31fy",
+          "visible": false,
+          "name": "Docker",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Docker Swarm"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "rhyhorn",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "languages",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "Lora",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
