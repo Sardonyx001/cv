@@ -4,6 +4,8 @@ import { Inter } from "next/font/google";
 
 import "./globals.css";
 import React from "react";
+import Link from "next/link";
+import { Badge } from "@/components/ui/badge";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -23,7 +25,17 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.className}>
-      <body>{children}</body>
+      <body>
+        <div className=" m-3 flex items-end justify-end gap-2">
+          <Link href={"/"}>
+            <Badge>{"English/英語"}</Badge>
+          </Link>
+          <Link href={"/jp"}>
+            <Badge>{"Japanese/日本語"}</Badge>
+          </Link>
+        </div>
+        {children}
+      </body>
       <Analytics />
     </html>
   );
