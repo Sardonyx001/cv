@@ -13,9 +13,9 @@ export const RESUME_DATA = {
   avatarUrl: `https://api.dicebear.com/7.x/bottts/svg?seed=${Math.random()}`,
   personalWebsiteUrl: "https://sardonyx001.github.io/",
   contact: {
-    email: "lassouedjamel99@gmail.com",
-    schoolEmail: "lassouedjamel99@gmail.com",
-    tel: "+8107038681998",
+    email: "lassouedjamel99+cv@gmail.com",
+    schoolEmail: "2158269+cv@oita-u.ac.jp",
+    tel: "+8107091962885",
     social: [
       {
         name: "GitHub",
@@ -52,7 +52,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Mobile Create",
+      company: "MobileCreate",
       link: "https://www.mcinc.jp/",
       badges: ["Remote", "Typescript", "Next.js", "PostgreSQL"],
       title: "Full Stack Developer",
@@ -81,6 +81,11 @@ export const RESUME_DATA = {
     "JavaScript/TypeScript",
     "React/Next.js",
     "Node.js",
+    "Docker",
+    "Golang",
+    "Bash",
+    "Perl",
+    "C/C++",
   ],
   projects: [
     {
