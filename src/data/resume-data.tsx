@@ -4,8 +4,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Jamel Eddine Lassoued",
   initials: "LJ",
-  location: "Oita, Japan",
-  locationLink: "https://www.google.com/maps/place/Oita,+Japan/",
+  location: "Tokyo, Japan",
   about:
     "Aspiring Full Stack Engineer. Currently 4th year student at Oita University, working as a Backend Engineer with local startups.",
   summary:
@@ -14,7 +13,6 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://sardonyx001.github.io/",
   contact: {
     email: "lassouedjamel99+cv@gmail.com",
-    schoolEmail: "2158269+cv@oita-u.ac.jp",
     tel: "+8107091962885",
     social: [
       {
@@ -24,7 +22,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/jamel-lassoued/",
+        url: "https://www.linkedin.com/in/jamel-eddine-lassoued-5a8768360/",
         icon: LinkedInIcon,
       },
       {
@@ -40,7 +38,7 @@ export const RESUME_DATA = {
       link: "https://www.oita-u.ac.jp/",
       degree: "Bachelor's Degree in Computer Science and Intelligent Systems\n",
       start: "2023",
-      end: "Graduating in 2025",
+      end: "2025",
     },
     {
       school: "National Institute of Technology, Sasebo College",
@@ -52,37 +50,48 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "MobileCreate",
-      link: "https://www.mcinc.jp/",
-      badges: ["Remote", "Typescript", "Next.js", "PostgreSQL"],
-      title: "Full Stack Developer",
-      logo: NextJsLogo,
-      start: "Nov. 2023",
-      end: "now",
-      description:
-        "I am working as a Backend Developer with Sigma-i, a startup based in Japan. I am responsible for building and maintaining the backend of one of the company's main products, a web application that helps users manage data entry and retrieval and generate reports.",
-    },
-    {
       company: "Sigma-i Co., Ltd",
       link: "https://www.sigmailab.com/",
       badges: ["Remote", "Python", "Flask", "MySQL", "Redis"],
       title: "Back End Developer",
-      logo: NextJsLogo,
-      start: "May. 2023",
-      end: "now",
+      start: "2023/5",
+      end: "2025/3",
+      description:
+        "I am working as a Backend Developer with Sigma-i, a startup based in Japan. I am responsible for building and maintaining the backend of one of the company's main products, a web application that helps users manage data entry and retrieval and generate reports.",
+    },
+    {
+      company: "Yumemi Inc.",
+      link: "https://www.yumemi.co.jp/",
+      badges: ["Remote", "Golang", "DDD", "Echo", "PostgreSQL"],
+      title: "Server-side Engineer",
+      start: "2024/2",
+      end: "2024/3",
+      description:
+        "Spent a two-week internship developing an API for a personal ordering system using the Golang Echo framework.",
+    },
+    {
+      company: "MobileCreate",
+      link: "https://www.mcinc.jp/",
+      badges: ["Remote", "Typescript", "Next.js", "PostgreSQL"],
+      title: "Full Stack Developer",
+      start: "2023/11",
+      end: "2024/3",
       description:
         "I am working as a Backend Developer with Sigma-i, a startup based in Japan. I am responsible for building and maintaining the backend of one of the company's main products, a web application that helps users manage data entry and retrieval and generate reports.",
     },
   ],
   skills: [
     "Python",
-    "Flask",
-    "Django",
+    "Java",
+    "Golang",
     "JavaScript/TypeScript",
+    "Flask",
+    "FastAPI",
     "React/Next.js",
     "Node.js",
     "Docker",
-    "Golang",
+    "PostgreSQL",
+    "MySQL",
     "Bash",
     "Perl",
     "C/C++",
