@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       company: "Sigma-i Co., Ltd",
       link: "https://www.sigmailab.com/",
       badges: ["Remote", "Python", "Flask", "MySQL", "Redis"],
-      title: "Back End Developer",
+      title: "Backend Developer",
       start: "2023/5",
       end: "2025/3",
       description:
@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       company: "Yumemi Inc.",
       link: "https://www.yumemi.co.jp/",
       badges: ["Remote", "Golang", "DDD", "Echo", "PostgreSQL"],
-      title: "Server-side Engineer",
+      title: "Backend Developer",
       start: "2024/2",
       end: "2024/3",
       description:
