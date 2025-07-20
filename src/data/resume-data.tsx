@@ -1,12 +1,10 @@
-import { VercelLogo, NextJsLogo } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Jamel Eddine Lassoued",
   initials: "LJ",
   location: "Tokyo, Japan",
-  about:
-    "Aspiring Full Stack Engineer. Currently 4th year student at Oita University, working as a Backend Engineer with local startups.",
+  about: "Aspiring Full Stack Engineer. Currently working in Tokyo.",
   summary:
     "I have experience in building and maintaining web applications using Node.js, TypeScript, Flask, and PostgreSQL. I am passionate about building products that are scalable, maintainable, and accessible. I am also interested in learning more about DevOps and MLOps.",
   avatarUrl: `https://api.dicebear.com/7.x/bottts/svg?seed=${Math.random()}`,
@@ -102,7 +100,6 @@ export const RESUME_DATA = {
       techStack: ["Side Project", "TypeScript", "Next.js"],
       description:
         "Labore esse qui officia dolore et incididunt irure amet proident laboris proident Lorem.",
-      logo: NextJsLogo,
       link: {
         label: "example.com",
         href: "https://example.com/",
@@ -113,7 +110,6 @@ export const RESUME_DATA = {
       techStack: ["Python", "Flask", "MySQL", "Redis", "Celery"],
       description:
         "Duis dolor adipisicing et magna fugiat occaecat culpa eiusmod nulla.",
-      logo: VercelLogo,
       link: {
         label: "example.com",
         href: "https://example.com/",
