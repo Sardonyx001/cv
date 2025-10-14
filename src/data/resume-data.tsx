@@ -4,6 +4,7 @@ export const RESUME_DATA = {
   name: "Jamel Eddine Lassoued",
   initials: "LJ",
   location: "Tokyo, Japan",
+  locationLink: "https://www.google.com/maps/place/Tokyo,+Japan",
   about: "Aspiring Full Stack Engineer. Currently working in Tokyo.",
   summary:
     "I have experience in building and maintaining web applications using Node.js, TypeScript, Flask, and PostgreSQL. I am passionate about building products that are scalable, maintainable, and accessible. I am also interested in learning more about DevOps and MLOps.",

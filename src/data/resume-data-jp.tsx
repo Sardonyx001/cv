@@ -4,6 +4,7 @@ export const RESUME_DATA = {
   name: "LASSOUED Jamel Eddine \nラスエド・ジャメル・エディン",
   initials: "LJ",
   location: "東京都",
+  locationLink: "https://www.google.com/maps/place/Tokyo,+Japan",
   about: "フルスタックエンジニアを目指している都内ソフトウェアエンジニア。",
   summary:
     "Node.js、Flask、PostgreSQL/MySQLを使ったWebアプリケーションの構築と保守の経験があります。スケーラブルで保守性が高く、使いやすいサービス・プロダクト開発に熱心があります。また、DevOpsとMLOpsについてもっと学びたいと思っています。TUIが好きで、最近GolangとRustを勉強中です。",
