@@ -51,6 +51,16 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "楽天グループ株式会社",
+      link: "https://corp.rakuten.co.jp/",
+      badges: ["オンサイト", "東京"],
+      title: "Application Engineer",
+      start: "2025/4",
+      end: null,
+      description:
+        "新卒でApplication Engineerとして入社。楽天トラベルのSREチームの一員として、主にバグ修正やパフォーマンス問題のトラブルシューティングを担当。",
+    },
+    {
       company: "Sigma-i株式会社",
       link: "https://www.sigmailab.com/",
       badges: ["リモート", "Python", "Flask/FastAPI", "MySQL", "Redis"],

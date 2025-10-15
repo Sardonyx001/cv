@@ -50,6 +50,16 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Rakuten Group Inc.",
+      link: "https://corp.rakuten.co.jp/",
+      badges: ["On-site", "Tokyo"],
+      title: "Application Engineer",
+      start: "2025/4",
+      end: null,
+      description:
+        "Joined as a New Grad Application Engineer. Mostly working on bug fixes and troubleshooting performance issues as part of the SRE team for Rakuten Travel.",
+    },
+    {
       company: "Sigma-i Co., Ltd",
       link: "https://www.sigmailab.com/",
       badges: ["Remote", "Python", "Flask", "MySQL", "Redis"],
