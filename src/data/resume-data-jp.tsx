@@ -1,4 +1,5 @@
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { Selfie } from "@/images";
 
 export const RESUME_DATA = {
   name: "LASSOUED Jamel Eddine \nラスエド・ジャメル・エディン",
@@ -8,7 +9,7 @@ export const RESUME_DATA = {
   about: "フルスタックエンジニアを目指している都内ソフトウェアエンジニア。",
   summary:
     "Node.js、Flask、PostgreSQL/MySQLを使ったWebアプリケーションの構築と保守の経験があります。スケーラブルで保守性が高く、使いやすいサービス・プロダクト開発に熱心があります。また、DevOpsとMLOpsについてもっと学びたいと思っています。TUIが好きで、最近GolangとRustを勉強中です。",
-  avatarUrl: `https://api.dicebear.com/7.x/bottts/svg?seed=${Math.random()}`,
+  avatarUrl: Selfie.src,
   personalWebsiteUrl: "https://sardonyx001.github.io/",
   contact: {
     email: "lassouedjamel99+cv@gmail.com",
