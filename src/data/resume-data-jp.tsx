@@ -56,7 +56,7 @@ export const RESUME_DATA = {
       badges: ["On-site", "Java", "Spring Boot", "Kubernetes", "Jenkins"],
       title: "Application Engineer",
       start: "2025/4",
-      end: null,
+      end: "現在",
       description:
         "新卒でApplication Engineerとして入社。楽天トラベルのSREチームの一員として、主にバグ修正やパフォーマンス問題のトラブルシューティングを担当。",
     },
