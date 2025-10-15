@@ -55,7 +55,7 @@ export const RESUME_DATA = {
       badges: ["On-site", "Java", "Spring Boot", "Kubernetes", "Jenkins"],
       title: "Application Engineer",
       start: "2025/4",
-      end: null,
+      end: "Present",
       description:
         "Joined as a New Grad Application Engineer. Mostly working on bug fixes and troubleshooting performance issues as part of the SRE team for Rakuten Travel.",
     },

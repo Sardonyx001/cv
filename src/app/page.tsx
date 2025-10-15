@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { RESUME_DATA } from "@/data/resume-data";
 import { ProjectCard } from "@/components/project-card";
 import Image from "next/image";
+import { LocaleRedirect } from "@/components/locale-redirect";
 
 export const metadata: Metadata = {
   title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
@@ -18,6 +19,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <main className="container relative mx-auto scroll-my-12 overflow-auto p-4 md:p-16 print:p-12">
+      <LocaleRedirect />
       {/* Main section */}
       <section className="mx-auto w-full max-w-2xl space-y-8 bg-white print:space-y-6">
         {/* Header, contact info, and about */}
