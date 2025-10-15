@@ -52,7 +52,7 @@ export const RESUME_DATA = {
     {
       company: "Rakuten Group Inc.",
       link: "https://corp.rakuten.co.jp/",
-      badges: ["On-site", "Tokyo"],
+      badges: ["On-site", "Java", "Spring Boot", "Kubernetes", "Jenkins"],
       title: "Application Engineer",
       start: "2025/4",
       end: null,
@@ -87,7 +87,7 @@ export const RESUME_DATA = {
       start: "2023/11",
       end: "2024/3",
       description:
-        "I am working as a Backend Developer with Sigma-i, a startup based in Japan. I am responsible for building and maintaining the backend of one of the company's main products, a web application that helps users manage data entry and retrieval and generate reports.",
+        "Developed a web application with route search functionality using real-time bus location data (GTFS-RT) and notification features via LINE through a 4-month internship. Primarily responsible for backend and infrastructure.",
     },
   ],
   skills: [

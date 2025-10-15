@@ -53,7 +53,7 @@ export const RESUME_DATA = {
     {
       company: "楽天グループ株式会社",
       link: "https://corp.rakuten.co.jp/",
-      badges: ["オンサイト", "東京"],
+      badges: ["On-site", "Java", "Spring Boot", "Kubernetes", "Jenkins"],
       title: "Application Engineer",
       start: "2025/4",
       end: null,
