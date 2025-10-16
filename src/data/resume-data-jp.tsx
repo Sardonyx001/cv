@@ -1,4 +1,4 @@
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 import { Selfie } from "@/images";
 
 export const RESUME_DATA = {
