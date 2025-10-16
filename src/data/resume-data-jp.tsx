@@ -12,8 +12,7 @@ export const RESUME_DATA = {
   avatarUrl: Selfie.src,
   personalWebsiteUrl: "https://sardonyx001.github.io/",
   contact: {
-    email: "lassouedjamel99+cv@gmail.com",
-    schoolEmail: "2158269+cv@oita-u.ac.jp",
+    email: "hey@jamell.dev",
     tel: "+8107091962885",
     social: [
       {
@@ -26,11 +25,11 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/jamel-eddine-lassoued-5a8768360/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/whyamihere001",
-        icon: XIcon,
-      },
+      // {
+      //   name: "X",
+      //   url: "https://x.com/whyamihere001",
+      //   icon: XIcon,
+      // },
     ],
   },
   education: [
