@@ -108,23 +108,22 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Project Title",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description:
-        "Labore esse qui officia dolore et incididunt irure amet proident laboris proident Lorem.",
+      title: "ul",
+      techStack: ["Golang", "Self-hosted"],
+      description: "Simple lightweight URL shortener",
       link: {
-        label: "example.com",
-        href: "https://example.com/",
+        label: "ul.jamell.dev",
+        href: "https://ul.jamell.dev",
       },
     },
     {
-      title: "Project Title 2",
-      techStack: ["Python", "Flask", "MySQL", "Redis", "Celery"],
+      title: "Whats this kanji?",
+      techStack: ["Kotlin", "Android"],
       description:
-        "Duis dolor adipisicing et magna fugiat occaecat culpa eiusmod nulla.",
+        "Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary",
       link: {
-        label: "example.com",
-        href: "https://example.com/",
+        label: "github.com/Sardonyx001/whats-this-kanji",
+        href: "https://github.com/Sardonyx001/whats-this-kanji",
       },
     },
   ],
